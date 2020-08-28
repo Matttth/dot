@@ -1,2 +1,8 @@
-# dot
-my dotfiles
+# General Configs
+
+## Includes
+- alacritty
+- bspwm
+- sxhkd
+- polybar
+- picom
